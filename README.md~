@@ -1,0 +1,9 @@
+# solution_duplicate
+
+python processor1.py Sub-Companies.csv
+
+
+python processor3.py Sub-Companies.csv
+
+1. concarnation
+2.read file in bunk, close
